@@ -18,6 +18,13 @@
 
 # About
 
+Hello! My name is Stewart Richard but everyone just called me **Stew**. Im a British Programmer!
+
+Im a university student at KCL! I study Computer Science! I dont have many goals, so I currently code for fun and to help!
+Im also an artist, I draw sometimes! I post most of my art on [Twitter](https://twitter.com/YesImStew)
+
+My main projects consist of Discord bots, Experimental Websites and Web Apps and Indie Games! I dont have much now but I plan to fill up my github with tons of different repositories! Im currently working on social media site for the mlp community (kind of like derpibooru but less surrounded about art)
+
 # Links
 
 # Contact
