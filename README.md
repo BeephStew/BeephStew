@@ -27,7 +27,13 @@ My main projects consist of Discord bots, Experimental Websites and Web Apps and
 
 # Links
 
+[Twitter](https://twitter.com/YesImStew)
+
 # Contact
+
+You can email me at [beephstew06@gmail.com](mailto:beephstew06@gmail.com)
+
+You can also friend me on Discord: **Stew#4609**
 
 # Github Stats
 
