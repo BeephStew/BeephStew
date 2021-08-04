@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">
+  <br>
+    Stewart Richard
+  <br>
+</h1>
 
-<!--
-**BeephStew/BeephStew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Backend Developer • Web Designer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="#about">About</a>
+  •
+  <a href="#links">Links</a>
+  •
+  <a href="#contact">Contact</a>
+  •
+  <a href="#github-stats">Github Stats</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About
+
+# Links
+
+# Contact
+
+# Github Stats
+
+<details>
+  <summary>Click to expand</summary>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=BeephStew&theme=dark&icon_color=c29cff&title_color=c29cff&border_color=c29cff&bg_color=111&count_private=true&show_icons=true&include_all_commits=true">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeephStew&title_color=c29cff&border_color=c29cff&bg_color=111&text_color=fff&count_private=true&layout=compact">
+    </p>
+</details>
