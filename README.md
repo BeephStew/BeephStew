@@ -42,6 +42,6 @@ You can also friend me on Discord: **Stew#4609**
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=BeephStew&theme=dark&icon_color=c29cff&title_color=c29cff&border_color=c29cff&bg_color=111&count_private=true&show_icons=true&include_all_commits=true">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeephStew&title_color=c29cff&border_color=c29cff&bg_color=111&text_color=fff&count_private=true&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeephStew&title_color=c29cff&border_color=c29cff&bg_color=111&text_color=fff&&layout=compact">
     </p>
 </details>
