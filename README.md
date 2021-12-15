@@ -5,7 +5,7 @@
 - :crystal_ball: I'm a Frontend Developer from London, England
 - :seedling: I'm currently learning more about Typescript, C++, and Game programming
 - :speech_balloon: Ask me about Web design or Programming Web Games
-- :goal_net: My goal this year is to cooperate with more projects!
+- :goal_net: My goal this year is to contribute to more projects!
 - :star: Fun Fact: I'm a Brony! :horse:
 
 ## How to reach me:
