@@ -1,6 +1,6 @@
 # Hello I'm _Stewart Richard_
 
-<img align="right" alt="GIF" src="https://github.com/YesImStew/YesImStew/blob/main/pixel_deer.gif?raw=true" width="300" height="auto" />
+<a href="#"><img align="right" alt="GIF" src="https://github.com/YesImStew/YesImStew/blob/main/pixel_deer.gif?raw=true" width="300" height="auto"/></a>
 
 - :crystal_ball: I'm a Frontend Developer from London, England
 - :seedling: I'm currently learning more about Typescript, C++, and Game programming
